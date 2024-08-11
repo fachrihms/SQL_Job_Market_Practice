@@ -181,7 +181,7 @@ ORDER BY
 LIMIT 50;
 ```
 
-![Top Paying Skills](assets\avg_salary_skills.png)
+![Top Paying Skills](assets/avg_salary_skills.png)
 
 ### 5. Optimal Skills for Job Market Value
 
@@ -270,7 +270,7 @@ Here's a brief insight into the data:
 2. Some specialized skills like Snowflake and Azure have relatively high salaries and moderate demand.
 3. Traditional programming languages like Java and C++ are present but not at the top in terms of demand or salary.
 
-![Optimal Skills](assets\optimal_skills_by_demand.png)
+![Optimal Skills](assets/optimal_skills_by_demand.png)
 
 # What I Learned
 
