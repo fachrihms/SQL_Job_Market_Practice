@@ -292,4 +292,4 @@ Throughout this adventure, I've learned a lot about SQL from zero (knowing nothi
 
 ### Closing Thoughts
 
-This project realy enhanced my SQL skils and provide valuable insights into the Data Analyst job market.
+This project really enhanced my SQL skils and provide valuable insights into the Data Analyst job market.
